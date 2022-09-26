@@ -1,0 +1,169 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+
+  font-family: "Merriweather", serif;
+  font-size: 100%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 3%;
+  border-color: grey;
+  position: relative;
+  bottom: 30px;
+}
+
+h1 {
+  font-size: 4.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+  line-height: 2;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  color: #66bfbf;
+  font-weight: bold;
+  margin: 50px auto 50px auto;
+  text-align: center;
+}
+
+.contact-me {
+  position: relative;
+  bottom: 130px;
+}
+.letter {
+  transition: color 200ms;
+}
+
+.buttonContactMe {
+  border-style: none;
+  border-radius: 12px;
+  background-color: #66bfbf;
+  color: white;
+  width: 8%;
+  height: 40px;
+  font-weight: 600;
+}
+
+.touchMeHr {
+  position: relative;
+  bottom: 150px;
+}
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+
+.washandChallenge {
+  position: relative;
+  bottom: 130px;
+}
+
+.consultMe {
+  position: relative;
+  bottom: 20px;
+}
+
+.btn {
+  position: relative;
+  top: 40px;
+}
+
+.skill-row {
+  width: 45%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-img1 {
+  width: 38%;
+  float: left;
+  margin-right: 30px;
+}
+
+.josephimg {
+  position: relative;
+  top: 40px;
+  width: 250px;
+}
+.para1 {
+  margin: 100px;
+  position: relative;
+  left: 190px;
+  bottom: 90px;
+}
+
+.iamProgrammer {
+  margin: 60px;
+  position: relative;
+  bottom: 40px;
+}
+
+.handWashImg {
+  position: relative;
+  left: 60px;
+  bottom: 100px;
+  width: 25%;
+  float: right;
+  margin-right: 110px;
+}
+
+.para2 {
+  position: relative;
+  bottom: 10px;
+}
+
+.topContainer {
+  background-color: #eaf6f6;
+}
+
+.top-cloud {
+  position: relative;
+  left: 190px;
+  top: 30px;
+  margin: 40px;
+}
+.bottom-cloud {
+  position: relative;
+  bottom: 330px;
+  right: 20px;
+}
+
+.mountains {
+  width: 30%;
+  position: relative;
+  right: 80px;
+}
+.eng {
+  text-decoration: underline;
+}
+
+.bottom-container {
+  width: 100%;
+  height: 180px;
+  background-color: #66bfbf;
+}
+.footer-link {
+  text-decoration: none;
+  position: relative;
+  top: 40px;
+  margin: auto 20px auto 20px;
+  color: #11999e;
+}
+
+.copyWriteName {
+  position: relative;
+  top: 80px;
+  color: white;
+  font-size: 11px;
+  font-weight: lighter;
+}
